@@ -1,0 +1,39 @@
+@media only screen and (max-width: 910px) {
+    .navBar {
+        display: flex;
+        flex-direction: column;
+    }
+    .navigationMenu{
+        display: flex;
+        flex-direction: column;
+    }
+    .profileImg {
+        width: 40%;
+    }
+    .skillsAndProject {
+        margin-top: 25px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .project{
+        margin-top: 5px;
+    }
+    .cssImg {
+        position: relative;
+        width: 50px;
+    }
+    button {
+        font-size: 17px;
+    }
+    .projectDescription {
+        font-size: small;
+    }
+}
+
+@media only screen and(max-width: 100px) {
+    .skill img {
+        margin-left: auto ;
+    }
+}
