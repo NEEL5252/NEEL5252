@@ -1,3 +1,8 @@
-- Here i uploaded all file related to porfolio.
-- In this portfolio i used only HTML and CSS.
-- It's not good enough responsive but i tried to make it responsive.
+- 👋 Hi, I’m Neel Sutariya
+- 👀 I’m interested in Web Devlopment
+- 🌱 I’m currently learning Web Devlopment
+
+<!---
+NEEL5252/NEEL5252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
