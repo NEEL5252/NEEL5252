@@ -1,3 +1,5 @@
+<img src='https://d2e931syjhr5o9.cloudfront.net/Best_Practices_for_Managing_Data_in_an_ML_Ops_Environment_Blog_Cover_86f8269914.jpg' style="height: 400px;" />
+
 ### Hi there 👋 I'm Neel Sutariya
 
 # 💫 About Me:
@@ -18,9 +20,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NEEL5252&icon=5&color=2)](https://visitcount.itsvg.in)
